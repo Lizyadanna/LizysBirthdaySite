@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: Happy Monkey;
+    background-color: #a2d2ff;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.happy-monkey-regular {
+    font-family: "Happy Monkey", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+#avatar {
+    border: 5px solid #EFB0C9;
+    border-radius: 50%;
+    width: 300px;
+    height: 200px;
+}
+  
+h1, h3, h4 {
+    text-shadow: 0 0 2px black;
+  }
+
+h3, h4 {
+    display: ;
+    background-color: #EFB0C9;
+  }
