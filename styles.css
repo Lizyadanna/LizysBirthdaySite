@@ -96,5 +96,17 @@ h1, h3, h4 {
     margin-top: 5px;
 }
 
+.footer {
+    font-style: italic;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #ffffff;
+    text-shadow: 0 0 2px black;
+}
+
+a {
+    color: white;
+}
+
 
 
