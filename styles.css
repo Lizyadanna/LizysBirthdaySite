@@ -20,8 +20,8 @@ body {
 #avatar {
     border: 5px solid #EFB0C9;
     border-radius: 50%;
-    width: 300px;
-    height: 250px;
+    width: 400px;
+    height: 400px;
 }
   
 h1, h3, h4 {
@@ -97,11 +97,11 @@ h1, h3, h4 {
 }
 
 .footer {
+    font-size: large;
     font-style: italic;
     padding-top: 20px;
     padding-bottom: 20px;
-    color: #ffffff;
-    text-shadow: 0 0 2px black;
+    color: black;
 }
 
 a {
