@@ -42,7 +42,7 @@ h1, h3, h4 {
     border-radius: 5px;
 }
 
-#gift-image {
+.gift-image {
     display: flex;
     margin: 0 auto;
     background-image: url(images/gift-cover.jpg);
@@ -53,6 +53,28 @@ h1, h3, h4 {
     border-radius: 10px;
 }
 
+#gift-image-1:hover {
+    background-image: url(images/happygif.webp);
+}
+
+#gift-image-2:hover {
+    background-image: url(images/happytosee.webp);
+}
+
+#gift-image-3:hover {
+    background-position: center;
+    background-image: url(images/smart.webp);
+}
+
+#gift-image-4:hover {
+    background-position: center;
+    background-image: url(images/badass.webp);
+}
+
+#gift-image-5:hover {
+    background-image: url(images/cheers.webp);
+}
+
 .gift-section {
     margin-top: 50px;
 }
@@ -60,11 +82,19 @@ h1, h3, h4 {
 .gift-title {
     margin-bottom: 0;
 }
+.gift-title-2 {
+    margin-bottom: 10px;
+}
+
+.gift-title-3 {
+    margin-bottom: 10px;
+}
+.gift-title-4 {
+    margin-bottom: 10px;
+}
 .gift-hint {
     margin-top: 5px;
 }
 
-#gift-image:hover {
-    background-image: url(images/happygif.webp);
-}
+
 
